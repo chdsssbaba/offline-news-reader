@@ -2,8 +2,6 @@
 
 A resilient, installable Progressive Web App for reading news with full offline support. Built with React, Vite, and Workbox.
 
-![NewsWave Screenshot](doc/screenshots/home-desktop.png)
-
 ## What It Does
 
 - Browse top headlines across 8 news categories
